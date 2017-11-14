@@ -9,4 +9,6 @@
   * [chapter3 水电费](di-san-zhang/chapter3.md)
 * [chapter 4 angular 组件 ](di-er-zhang.md)
   * [第一节 问问 ](di-er-zhang/di-yi-jie-wen-wen.md)
+* chapter 5 三点多分散式
+  * [答复 ](da-fu.md)
 
