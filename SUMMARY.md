@@ -6,6 +6,7 @@
 * [第二章 angular CLI](chapter2.md)
   * [第一节 单独](di-er-zhang/df.md)
 * [第三章 typescript 简介](chapter3.md)
+  * [第一节 777](chapter3/di-yi-jie-777.md)
 * [第四章 angular 组件  ](chapter4.md)
 * [第五章 指令](chapter4.md)
 * [第六章 表单](chapter6.md)
@@ -17,6 +18,4 @@
 * [第十二章 通过service管理应用](chapter12.md)
 * [第十三章 通过redux管理大型应用](chapter13.md)
 * [第十四章 测试](chapter14.md)
-
-
 
