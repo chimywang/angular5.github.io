@@ -5,9 +5,9 @@
   * [第一节 哈哈](chapter1/shao-7b49b7.md)
 * [chapter 2 angular CLI](di-er-zhang.md)
   * [第一节 单独](di-er-zhang/df.md)
-* [chapter 3](di-er-zhang.md)
+* [chapter 3 typescript 简介](di-er-zhang.md)
   * [chapter3 水电费](di-san-zhang/chapter3.md)
-* [chapter](di-er-zhang.md)
+* [chapter 4 angular 组件 ](di-er-zhang.md)
   * [第一节  地方](https://www.gitbook.com/book/chimywang/angular-5/edit#)
   * [第一节 水电费](https://www.gitbook.com/book/chimywang/angular-5/edit#)
 * [chapter](https://www.gitbook.com/book/chimywang/angular-5/edit#)
@@ -31,7 +31,7 @@
 * [chapter](https://www.gitbook.com/book/chimywang/angular-5/edit#)
   * [第一节](https://www.gitbook.com/book/chimywang/angular-5/edit#)
 
-[简介](README.md)
+---
 
 * [第一章 快速开始](chapter1.md)
   * [第一节 哈哈](chapter1/shao-7b49b7.md)
@@ -48,6 +48,4 @@
 * [第十二章 通过service管理应用](di-shi-er-zhang-tong-guo-service-guan-li-ying-yong.md)
 * [第十三章 通过redux管理大型应用](di-shi-san-zhang-tong-guo-redux-guan-li-da-xing-ying-yong.md)
 * [第十四章 测试](di-shi-si-zhang-ce-shi.md)
-
-
 
