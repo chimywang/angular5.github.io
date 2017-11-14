@@ -20,7 +20,7 @@
 * [第九章 PIPE](di-jiu-zhang-pipe.md)
   * [第一节](https://www.gitbook.com/book/chimywang/angular-5/edit#)
 * [第十章 ROUTER](di-shi-zhang-router.md)
-  * [第一节](https://www.gitbook.com/book/chimywang/angular-5/edit#)
+  * [第一节 电饭锅](https://www.gitbook.com/book/chimywang/angular-5/edit#)
 * [第十一章 RXJS](di-shi-yi-zhang-rxjs.md)
   * [第一节](https://www.gitbook.com/book/chimywang/angular-5/edit#)
 * [第十二章 通过service管理应用](di-shi-er-zhang-tong-guo-service-guan-li-ying-yong.md)
