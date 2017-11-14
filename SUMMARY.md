@@ -10,10 +10,10 @@
 * [chapter 4 angular 组件 ](di-er-zhang.md)
   * [第一节  地方](https://www.gitbook.com/book/chimywang/angular-5/edit#)
   * [第一节 水电费](https://www.gitbook.com/book/chimywang/angular-5/edit#)
-* 
+
+
+
 ---
-
-
 
 [第一章 快速开始](chapter1.md)
 
@@ -44,6 +44,4 @@
 [第十三章 通过redux管理大型应用](di-shi-san-zhang-tong-guo-redux-guan-li-da-xing-ying-yong.md)
 
 [第十四章 测试](di-shi-si-zhang-ce-shi.md)
-
-
 
