@@ -12,6 +12,7 @@
 * [第五章 指令](chapter4.md)
   * [第一节](chapter4/di-yi-jie.md)
 * [第六章 表单](chapter6.md)
+  * [第二节](chapter6/di-er-jie.md)
 * [第七章 依赖注入](chapter7.md)
 * [第八章 HTTP](chapter8.md)
 * [第九章 PIPE](chapter9.md)
