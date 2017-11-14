@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [第一章 快速开始](chapter1.md)
   * [第一节 哈哈](chapter1/shao-7b49b7.md)
-* [chapter2 angular CLI](di-er-zhang.md)
+* [chapter 2 angular CLI](di-er-zhang.md)
   * [第一节 单独](di-er-zhang/df.md)
 * [chapter](di-er-zhang.md) 3[ typescript 简介](di-san-zhang.md)
   * [chapter3 水电费](di-san-zhang/chapter3.md)
