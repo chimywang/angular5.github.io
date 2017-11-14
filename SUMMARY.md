@@ -8,6 +8,7 @@
 * [第三章 typescript 简介](chapter3.md)
   * [第一节 777](chapter3/di-yi-jie-777.md)
 * [第四章 angular 组件  ](chapter4.md)
+  * [第一节](chapter4/di-yi-jie.md)
 * [第五章 指令](chapter4.md)
 * [第六章 表单](chapter6.md)
 * [第七章 依赖注入](chapter7.md)
