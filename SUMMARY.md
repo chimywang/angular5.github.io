@@ -8,40 +8,5 @@
 * [chapter 3 typescript 简介](di-er-zhang.md)
   * [chapter3 水电费](di-san-zhang/chapter3.md)
 * [chapter 4 angular 组件 ](di-er-zhang.md)
-  * [第一节  地方](https://www.gitbook.com/book/chimywang/angular-5/edit#)
-  * [第一节 水电费](https://www.gitbook.com/book/chimywang/angular-5/edit#)
-
-
-
----
-
-[第一章 快速开始](chapter1.md)
-
-[第一节 哈哈](chapter1/shao-7b49b7.md)
-
-[第二章 angular CLI](di-er-zhang.md)
-
-[第三章 typescript 简介](di-san-zhang.md)
-
-[第四章 angular 组件  ](di-si-zhang-angular-zu-jian.md)
-
-[第五章 指令](di-wu-zhang-zhi-ling.md)
-
-[第六章 表单](di-liu-zhang-biao-dan.md)
-
-[第七章 依赖注入](di-qi-zhang-yi-lai-zhu-ru.md)
-
-[第八章 HTTP](di-ba-zhang-http.md)
-
-[第九章 PIPE](di-jiu-zhang-pipe.md)
-
-[第十章 ROUTER](di-shi-zhang-router.md)
-
-[第十一章 RXJS](di-shi-yi-zhang-rxjs.md)
-
-[第十二章 通过service管理应用](di-shi-er-zhang-tong-guo-service-guan-li-ying-yong.md)
-
-[第十三章 通过redux管理大型应用](di-shi-san-zhang-tong-guo-redux-guan-li-da-xing-ying-yong.md)
-
-[第十四章 测试](di-shi-si-zhang-ce-shi.md)
+  * [第一节 问问 ](di-er-zhang/di-yi-jie-wen-wen.md)
 
