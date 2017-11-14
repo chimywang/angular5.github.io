@@ -31,34 +31,4 @@
   * [第一节](https://www.gitbook.com/book/chimywang/angular-5/edit#) 是大法官
 
 
-Summary
 
-简介
-第一章 快速开始
-第一节 哈哈
-第二章 angular CLI
-第一节 单独
-第三章 typescript 简介
-第一节 水电费
-第四章 angular 组件
-第一节 地方
-第五章 指令
-第一节 水电费
-第六章 表单
-第一节 水电费
-第七章 依赖注入
-第一节 地方
-第八章 HTTP
-第一节 水电费
-第九章 PIPE
-第一节 水电费
-第十章 ROUTER
-第一节 水电费
-第十一章 RXJS
-第一节 水电费
-第十二章 通过service管理应用
-第一节 水电费
-第十三章 通过redux管理大型应用
-第一节 水电费
-第十四章 测试
-第一节 是大法官
