@@ -26,7 +26,7 @@
 * [第十二章 通过service管理应用](chapter12.md)
   * [第一节](chapter12/di-yi-jie.md)
 * [第十三章 通过redux管理大型应用](chapter13.md)
-  * 第一节
+  * [第一节](chapter13/di-yi-jie.md)
 * [第十四章 测试](chapter14.md)
   * 第一节
 
